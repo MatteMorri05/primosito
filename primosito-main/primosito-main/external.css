@@ -1,0 +1,31 @@
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+h2 {
+    color: black;
+    text-align: center;
+    }
+
+h1 {
+    color: cyan;
+    font-size:xx-large;
+    }
+
+body {
+    background-color: whitesmoke ;
+}
+
+img {
+    border: 10px solid whitesmoke;
+  }
+
+.info {
+    color: lightblue;
+    text-align: left;
+    border: 5px solid black;
+}
+
+.prova{
+    text-align: center;
+}

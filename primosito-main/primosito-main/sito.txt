@@ -1,4 +1,3 @@
-
 <html lang="it">
     <head>
         <meta charset="UTF-8">
@@ -6,7 +5,7 @@
 	<link rel="icon" type="image/x-icon" href="./immagini/favicon.ico">
     </head>
 
-    <!-- Qua scriviamo il codice vero e proprio della pagina. -->
+   
     <body>
         <h1>Le moto possono essere :</h1>
         
